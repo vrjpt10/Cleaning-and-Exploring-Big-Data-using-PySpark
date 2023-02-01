@@ -1,3 +1,3 @@
 # Cleaning-and-Exploring-Big-Data-using-PySpark
 
-In this project, cleaning, exploring and big data visualization is done using using PySpark. We used an open source dataset containing information on all the water wells in Tanzania. We changed column’s data type, renamed categories with low frequency in character columns and imputed missing values in numerical columns. We also visualized data by converting Spark dataframe to Pandas dataframe.
+The project involves the cleaning, exploration, and visualization of big data using PySpark. An open source dataset containing information on all the water wells in Tanzania was utilized. The data type of columns was changed, categories with low frequency in character columns were renamed, and missing values in numerical columns were imputed. The data was also visualized by converting the Spark dataframe to a Pandas dataframe.
